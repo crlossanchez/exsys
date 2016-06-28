@@ -48,9 +48,15 @@ $ yo angular:directive toolbar.dir
 
 
 app                 backend
+
 app                 views es frontend
+
 janderbars
+
 vicore.server.view.html todo lo de vicores
+
 all.js           todas las librerias
+
 dis              archivos de distribucion
+
 core casi todas las ventanas de vimesys
