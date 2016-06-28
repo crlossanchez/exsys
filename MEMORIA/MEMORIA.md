@@ -1,6 +1,6 @@
 ### Configuración de la estructura del proyecto
-* Crear directorio de proyecto `$ mkdir vmsys`, ingresar en el `$ cd vmsys`
-* Ejecutar yeoman con el nombre del proyecto y el generador `$ yo angular vmsys`
+* Crear directorio de proyecto `$ mkdir exsys`, ingresar en el `$ cd exsys`
+* Ejecutar yeoman con el nombre del proyecto y el generador `$ yo angular exsys`
 * La configuracion de yeoman se muestra a continuacion:
 
 ![Imagen de configuracion yeoman](/MEMORIA/config_yeoman.png)
@@ -39,7 +39,6 @@ $ yo angular:directive toolbar.dir
 
 
 
- 
 
 
 
@@ -47,11 +46,11 @@ $ yo angular:directive toolbar.dir
 
 
 
-app                 backend 
+
+app                 backend
 app                 views es frontend
-janderbars 
+janderbars
 vicore.server.view.html todo lo de vicores
 all.js           todas las librerias
 dis              archivos de distribucion
 core casi todas las ventanas de vimesys
-
