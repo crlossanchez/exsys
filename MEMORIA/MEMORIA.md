@@ -35,6 +35,9 @@ $ yo angular:directive toolbar.dir
    create test/spec/directives/toolbar.dir.js
 ~~~
 
+## Analasis adecuado de ejecucion por Christian
+
+
 
 
 
