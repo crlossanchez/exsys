@@ -35,31 +35,5 @@ $ yo angular:directive toolbar.dir
    create test/spec/directives/toolbar.dir.js
 ~~~
 
-## Analasis adecuado de ejecucion por Christian
+## Análasis adecuado de ejecución por Christian
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-app                 backend
-
-app                 views es frontend
-
-janderbars
-
-vicore.server.view.html todo lo de vicores
-
-all.js           todas las librerias
-
-dis              archivos de distribucion
-
-core casi todas las ventanas de vimesys
